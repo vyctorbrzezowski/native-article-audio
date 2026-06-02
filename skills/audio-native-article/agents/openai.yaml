@@ -1,0 +1,4 @@
+interface:
+  display_name: "Audio-Native Article"
+  short_description: "Turn articles into listening-first audio scripts"
+  default_prompt: "Use $audio-native-article to turn this article into an audio-native narration package."
