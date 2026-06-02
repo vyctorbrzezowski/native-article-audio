@@ -4,6 +4,28 @@ Dependency-free article audio UI for narrated posts, docs, and essays.
 
 It renders a custom audio player with a canvas waveform, hover previews for article sections, click-to-seek, playback speed control, and a live current-heading label. It is designed for audio-native articles: narration that adapts headings, images, charts, tables, code, and figures for listeners instead of reading a page literally.
 
+## Watch it working on OpenClaw.ai
+
+Desktop article player:
+
+![Desktop article player on OpenClaw.ai](https://ivory-fable-xak6.here.now/droppie-2026-06-02T21-56-02Z.png)
+
+Narrow layout:
+
+![Narrow article player on OpenClaw.ai](https://flint-comet-2gbd.here.now/droppie-2026-06-02T21-55-12Z.png)
+
+Hover preview with the target heading:
+
+![Heading tooltip while hovering over the waveform](https://quartz-canyon-fbq5.here.now/droppie-2026-06-02T21-56-26Z.png)
+
+Hover progress preview:
+
+![Waveform hover progress preview](https://dusty-garden-a5ww.here.now/droppie-2026-06-02T21-57-00Z.png)
+
+Playback progress with the current section label:
+
+![Playback progress with current heading label](https://swift-quiche-92y2.here.now/droppie-2026-06-02T21-57-21Z.png)
+
 ## Install
 
 ```sh
